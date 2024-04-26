@@ -21,3 +21,13 @@ I got this dataset from kaggle, an online website containing datasets. It contai
 
 ##DATA TRANSFORMATION AND MODELING
 This dataset was already cleaned. Using power query, values in each row were replaced since the dataset was coded. Data types were then changed to whatever was appropriate for each column. Data was filtered to get only that pertaining to those diagnosed with heart diseases. Data modeling was not done since it was only one table.
+![](https://github.com/kayenymelody/HEART-DISEASES-WITH-POWER-BI/blob/main/power%20query.png)
+
+##ANALYSIS AND VISUALISATION
+
+A total of two pages;
+Page one
+-629 of the 1190 people were diagnosed with a heart disease,559 of whom were male.
+-The average age of people diagnosed with a heart disease was 56 years, an average cholesterol level of 191.37mg/dl which is below the 200mg/dl normal maximum cholesterol level and an average resting systolic blood pressure of 134.26mmHg which is higher than the 120mmHg normal maximum systolic blood pressure.
+- Only 187 people diagnosed with a heart disease had a fasting blood glucose greater than 120mg/dl, 460 people had flat ST slopes with the rest having either upsloping or those downsloping, only 56 had either atypical angina or typical angina and 383 reported to having exercise angina.
+
