@@ -13,3 +13,11 @@ This is a Power BI project on the analysis of health related data collected from
 The following Power BI features were incorporated;
 Calculated columns, quick measures, page navigation
 ![](https://github.com/kayenymelody/HEART-DISEASES-WITH-POWER-BI/blob/main/calculated%20column.png)
+![](https://github.com/kayenymelody/HEART-DISEASES-WITH-POWER-BI/blob/main/quick%20measure.png)
+
+##DATA SOURCING
+
+I got this dataset from kaggle, an online website containing datasets. It contains 1190 rows with 12 columns (age, sex, resting BP, chest pain, fasting blood glucose, resting ecg, maximum heart rate, exercise angina, old peak, ST slope and target)
+
+##DATA TRANSFORMATION AND MODELING
+This dataset was already cleaned. Using power query, values in each row were replaced since the dataset was coded. Data types were then changed to whatever was appropriate for each column. Data was filtered to get only that pertaining to those diagnosed with heart diseases. Data modeling was not done since it was only one table.
