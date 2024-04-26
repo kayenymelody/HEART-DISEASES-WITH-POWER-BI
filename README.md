@@ -30,4 +30,9 @@ Page one
 -629 of the 1190 people were diagnosed with a heart disease,559 of whom were male.
 -The average age of people diagnosed with a heart disease was 56 years, an average cholesterol level of 191.37mg/dl which is below the 200mg/dl normal maximum cholesterol level and an average resting systolic blood pressure of 134.26mmHg which is higher than the 120mmHg normal maximum systolic blood pressure.
 - Only 187 people diagnosed with a heart disease had a fasting blood glucose greater than 120mg/dl, 460 people had flat ST slopes with the rest having either upsloping or those downsloping, only 56 had either atypical angina or typical angina and 383 reported to having exercise angina.
+![](https://github.com/kayenymelody/HEART-DISEASES-WITH-POWER-BI/blob/main/page%201.png)
+
+Page 2
+The average maximum heart rate for those diagnosed with a heart disease was 127.78bpm which was higher than the normal maximum of 100bpm.Age and resting systolic Bp were strongly positively correlated with a correlation coefficient of 0.99. Among those diagnosed with a heart disease but reported not to have any chest pain when resting, 369 admitted to having exercise angina.
+
 
