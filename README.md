@@ -12,4 +12,4 @@ This is a Power BI project on the analysis of health related data collected from
 ##SKILLS DEMONSTRATED
 The following Power BI features were incorporated;
 Calculated columns, quick measures, page navigation
-
+![](https://github.com/kayenymelody/HEART-DISEASES-WITH-POWER-BI/blob/main/calculated%20column.png)
